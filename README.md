@@ -1,4 +1,4 @@
-# CineTime
+# Generic Ticket
 
 ## Description
 
